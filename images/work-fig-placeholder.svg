@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#F8FBFF" stroke="#BFDBFE" stroke-width="2"/>
+  <rect x="20" y="20" width="360" height="220" fill="none" stroke="#93C5FD" stroke-width="1" stroke-dasharray="6 5"/>
+  <text x="200" y="118" text-anchor="middle" font-family="Times New Roman, serif" font-size="20" fill="#1D4ED8" font-weight="bold">Framework Figure</text>
+  <text x="200" y="148" text-anchor="middle" font-family="SimHei, sans-serif" font-size="15" fill="#475569">框架图（占位）</text>
+</svg>
